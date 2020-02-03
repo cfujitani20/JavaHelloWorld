@@ -1,4 +1,4 @@
-// HelloWorld by Cade (Gibby) Fujitani]
+// HelloWorld by Cade (Gibby) Fujitani 
 public class HelloWorld
 {
     public static void main(String[] args)
@@ -6,3 +6,4 @@ public class HelloWorld
 
     }
 }
+// thank you for coming to my ted talk 
